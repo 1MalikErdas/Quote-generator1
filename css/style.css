@@ -1,0 +1,43 @@
+body{
+    background-image: url("/img/High_resolution_wallpaper_background_ID_77701362347-1200x675.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.quote{
+    float: left;
+    position: absolute;
+    margin-top: 400px;
+    font-size: 22pt;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-left: 590px;
+    color: rgb(255, 255, 255);
+}
+
+.from{
+    float: left;
+    position: absolute;
+    margin-top: 460px;
+    font-size: 18pt;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-left: 790px;
+    color: rgb(255, 255, 255);
+}
+
+.generate{
+    float: left;
+    position: absolute;
+    margin-top: 520px;
+    margin-left: 1000px;
+    padding: 10px;
+    font-size: 12pt;
+    background-color: rgba(255, 255, 255, 0);
+    border: 4px solid rgba(218, 199, 199, 0.856);
+    color: rgb(20, 19, 19);
+    border-radius: 25px;
+}
+
+.generate:hover{
+    cursor: pointer ;
+}
